@@ -22,21 +22,17 @@ _Please ensure your proposal strictly adheres to these guidelines to be consider
 
 ### **Project Title**
 
-Provide the title of your project.
+FluidPass
 
-**Sample:** CryptoTracker
 
-### **What are you planning to build?**
+### **What are we planning to build?**
 
-Provide a brief overview of your project here.
-
-**Sample:** We're building CryptoTracker, a decentralized platform to track and manage cryptocurrency portfolios.
+We're building an event pass with a unique payment system for online events that empowers participants to pay only for the duration they we're present in the event. This event pass can solve the problem of paying a large fee for an event that you didn't fully enjoy.
 
 ### **Project Breakdown**
 
-Provide a comprehensive explanation of your project. This should include a detailed description of what your project is all about, its main objectives, and its intended impact or benefits. Also, describe how your project works. This can include an overview of the processes or mechanisms involved, the technologies or methods used, and how these contribute to achieving the project's goals.
+FluidPass is a Pay As You Go Digital Event Pass.
 
-**Sample**:
 
 **Why Choose CryptoTracker?**
 CryptoTracker is for crypto enthusiasts seeking a streamlined way to manage their digital wealth. It’s designed to demystify the complex world of cryptocurrencies, making tracking and growing your investments straightforward and secure.
@@ -44,7 +40,7 @@ CryptoTracker is for crypto enthusiasts seeking a streamlined way to manage thei
 **Problem Statement**
 Navigating the vast, intricate world of cryptocurrency can be daunting. Investors need a centralized platform that simplifies asset management, provides live market updates, and offers clear insights into their cryptocurrency holdings.
 
-**How CryptoTracker Works**
+**How FluidPass Works**
 
 - **Easy Interface**: Navigate and manage your assets with ease, thanks to a user-friendly interface.
 - **Manage Your Coins**: Effortlessly add, monitor, and organize your cryptocurrencies in one unified space.
@@ -54,21 +50,14 @@ Navigating the vast, intricate world of cryptocurrency can be daunting. Investor
 
 ### **Technology Stack**
 
-Please enumerate the technologies, tools, and frameworks that you're planning to utilize in the development and implementation of your project. This should include both the front-end and back-end technologies, databases, cloud services, libraries, and other relevant software components.
-
-**Sample:**
-
 - Solidity
 - React.js
 - EtherJs Library
 - Node.js
-- Ethereum Blockchain
+- Poligon Blockchain
 
 ### **Milestone Breakdown**
 
-Outline the key milestones for your project and the associated timelines.
-
-**Sample:**
 
 1. **Project Kick-off (Days 1-2):** Team formation and project ideation.
 2. **Design Phase (Days 3-4):** Create wireframes and finalize design concepts.
@@ -80,33 +69,19 @@ Outline the key milestones for your project and the associated timelines.
 
 ### **Teammates**
 
-Please ensure to add the names of each member of your team along with their respective GitHub profiles to this list.
-
-**Sample:**
-
-- Alice Johnson ([GitHub Profile](https://github.com/alicejohnson))
-- Bob Smith ([GitHub Profile](https://github.com/bobsmith))
-- Charlie Brown ([GitHub Profile](https://github.com/charliebrown))
+- Ashish Sahoo ([GitHub Profile](https://github.com/Ashish-Kumar-007))
+- Debasish Roy ([GitHub Profile](https://github.com/DRoy01))
+- Mark Kamau ([GitHub Profile](https://github.com/BigmanMKG))
+- Nitin Joshi ([GitHub Profile](https://github.com/highnitin)
 
 ### **Individual Contribution Breakdown**
 
-Please ensure to clearly define the responsibilities and tasks of each team member. This includes detailing their specific role within the project, outlining their duties, and setting clear expectations for their contribution.
-
-**Sample:**
-
-- Alice Johnson: Smart Contract Development
-- Bob Smith: Frontend Design and Implementation
-- Charlie Brown: Backend Development
+- Ashish Sahoo:
+- Debasish Roy:
+- Mark Kamau:
+- Nitin Joshi:
 
 ---
 
 ## **Future Prospects and Conclusion**
 
-**Answer the following questions regarding the future prospects and scaling of your project.**
-
-1. What are the potential future features or enhancements you envision for your project?
-   - **Sample**: We plan to integrate a real-time news feed for cryptocurrencies.
-2. How do you plan to scale the project if there's an increase in user activity or data volume?
-   - **Sample**: We'll implement load balancing and optimize database queries.
-3. Provide a concise one-line summary of your proposal and its objectives.
-   - **Sample**: Our project, CryptoTracker, aims to revolutionize cryptocurrency management with a decentralized platform for secure asset tracking and real-time market analysis.
